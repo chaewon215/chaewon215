@@ -1,6 +1,3 @@
-# README.md
-
-
 ## NAME —
 김채원 | KIM CHAEWON
 
