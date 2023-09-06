@@ -21,3 +21,9 @@ Artificial Inteligence(ML/DL), Bio-Informatics
 |✔  To do mate |@cheezeasy|
 |🎮  Battlenet(Overwatch) |cheezeasy#1644|
 |🎧  Discord |채원#0106|
+
+## STATS —
+### GitHub <br>
+![Chaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaewon215&show_icons=true&theme=swift)
+### Languages <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaewon215&layout=compact&theme=swift)
