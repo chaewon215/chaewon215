@@ -20,7 +20,6 @@ Artificial Inteligence(ML/DL), Bio-Informatics
 |💻  GitHub |[@chaewon215](https://github.com/chaewon215)|
 |✔  To do mate |@cheezeasy|
 |🎮  Battlenet(Overwatch) |cheezeasy#1644|
-|🎧  Discord |채원#0106|
 
 ## STATS —
 ### GitHub <br>
