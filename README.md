@@ -8,9 +8,10 @@ Artificial Inteligence(ML/DL), Bio-Informatics
 ## SCHOOL & MAJOR —
 |YEAR|INSTITUTION|
 |------|-----|
-|2020. 03. ~ |Chonnam National University Computer Engineering 20|
-|2023. 01. ~ |BMIL Bio and Medical Informatics Laborator|
-|2023. 03. ~ |Chonnam National University ECONOVATION|
+|2024. 03. ~ | Chonnam National University - Department of Intelligent Electronics and Computer Engineering 24 |
+|2023. 01. ~ |BMIL Bio and Medical Informatics Laboratory|
+|2023. 03. ~ 2024. 08. |Chonnam National University - ECONOVATION|
+|2020. 03. ~ 2024. 02. |Chonnam National University - Computer Engineering 20|
 |2022. 09. ~ 2022. 12. |Southern Oregon University as Exchange Student|
 
 ## SNS —
