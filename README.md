@@ -3,7 +3,7 @@ Integrated B.S./M.S. Program in Intelligent Electronics and Computer Engineering
 
 
 ## FIELD OF INTEREST —
-Bioinformatics, Deep learning, Drug response
+Bioinformatics, Deep learning, Drug responses, Omics data (especially transcriptomes)
 
 
 ## EDUCATION —
@@ -17,14 +17,10 @@ Bioinformatics, Deep learning, Drug response
 ## ACTIVITIES
 |PERIOD|ACTIVITY|
 |:------|:-----|
-|2025. 04. - Present|WISET 한국여성과학기술인육성재단 2025년 여대학원생 공학연구팀제 지원사업 심화과정|
-|2025. 04. - Present|AI Mentor at [ECONOVATION](https://github.com/JNU-econovation), Chonnam National University|
 |2021. 05. - Present|Member of "CONCEPTING" Reading Club|
-|2024. 09. - 2024. 12. |Teaching Assistant for "Python Programming and Practice (SAI0030)" at Chonnam National University|
+|2025. 04. - 2025. 10.|WISET 한국여성과학기술인육성재단 2025년 여대학원생 공학연구팀제 지원사업 심화과정 연구책임자|
+|2025. 04. - 2025. 07.|AI Mentor at [ECONOVATION](https://github.com/JNU-econovation), Chonnam National University|
 |2023. 03. - 2024. 08. |Active Member of [ECONOVATION](https://github.com/JNU-econovation), Chonnam National University|
-|2022. 09. - 2022. 12. |Student Teaching Assistant for "General Biology 1 (CLT0097)" at Chonnam National University|
-|2021. 03. - 2021. 06.|전남대학교 열공1 (자기주도학습) 프로그램 참가|
-|2021. 03. - 2021. 06.|전남대학교 이뭣고-교학상장 프로그램 참가|
 
 ## AWORDS
 |PERIOD|AWORDS|
