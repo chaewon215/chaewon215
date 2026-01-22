@@ -25,7 +25,7 @@ Bioinformatics, Deep learning, Drug responses, Omics data (especially transcript
 ## AWORDS
 |PERIOD|AWORDS|
 |:------|:-----|
-|2025. 12.|The 19th International Conference on Data and Text Mining in Biomedical Informatics (DTMBIO) / Excellenet Presentation Award|
+|2025. 12.|The 19th International Conference on Data and Text Mining in Biomedical Informatics (DTMBIO) / Excellent Presentation Award|
 |2024. 05.|2024년 제6회 전남대학교 소프트웨어 교내 SW프로그래밍 경진대회 / 은상|
 |2024. 01.|2023년 CNU 메타버시티 콘텐츠 경진대회 / 우수상|
 
