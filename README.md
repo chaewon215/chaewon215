@@ -10,7 +10,7 @@ Bioinformatics, Deep learning, Drug responses, Omics data (especially transcript
 |PERIOD|INSTITUTION|
 |:------|:-----|
 |2024. 03. - Present|M.S. Course in Intelligent Electronics and Computer Engineering, Chonnam National University|
-|2023. 01. - Present|[Bio and Medical Informatics Laboratory](http://bmil.jnu.ac.kr/) (BMIL)|
+|2023. 01. - Present|[Bio and Medical Informatics Laboratory](http://bmil.jnu.ac.kr/) (BMIL), Chonnam National University|
 |2020. 03. - 2024. 02. |B.S. in Computer Engineering, Chonnam National University|
 |2022. 09. - 2022. 12. |🇺🇸 Southern Oregon University as Exchange Student|
 
@@ -25,6 +25,7 @@ Bioinformatics, Deep learning, Drug responses, Omics data (especially transcript
 ## AWORDS
 |PERIOD|AWORDS|
 |:------|:-----|
+|2025. 12.|The 19th International Conference on Data and Text Mining in Biomedical Informatics (DTMBIO) / Excellenet Presentation Award|
 |2024. 05.|2024년 제6회 전남대학교 소프트웨어 교내 SW프로그래밍 경진대회 / 은상|
 |2024. 01.|2023년 CNU 메타버시티 콘텐츠 경진대회 / 우수상|
 
