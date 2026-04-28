@@ -1,5 +1,5 @@
 ## CHAEWON KIM | 김채원
-Integrated B.S./M.S. Program in Intelligent Electronics and Computer Engineering, Chonnam National University (Currently in the 3rd semester)
+AI researcher & developer specializing in generative models for transcriptomics & computational drug discovery
 
 
 ## FIELD OF INTEREST —
@@ -9,8 +9,8 @@ Bioinformatics, Deep learning, Drug responses, Omics data (especially transcript
 ## EDUCATION —
 |PERIOD|INSTITUTION|
 |:------|:-----|
-|2024. 03. - Present|M.S. Course in Intelligent Electronics and Computer Engineering, Chonnam National University|
-|2023. 01. - Present|[Bio and Medical Informatics Laboratory](http://bmil.jnu.ac.kr/) (BMIL), Chonnam National University|
+|2024. 03. - 2026. 02. |M.S. in Intelligent Electronics and Computer Engineering, Chonnam National University|
+|2023. 01. - 2026. 02. |[Bio and Medical Informatics Laboratory](http://bmil.jnu.ac.kr/) (BMIL), Chonnam National University|
 |2020. 03. - 2024. 02. |B.S. in Computer Engineering, Chonnam National University|
 |2022. 09. - 2022. 12. |🇺🇸 Southern Oregon University as Exchange Student|
 
@@ -22,8 +22,29 @@ Bioinformatics, Deep learning, Drug responses, Omics data (especially transcript
 |2025. 04. - 2025. 07.|AI Mentor at [ECONOVATION](https://github.com/JNU-econovation), Chonnam National University|
 |2023. 03. - 2024. 08. |Active Member of [ECONOVATION](https://github.com/JNU-econovation), Chonnam National University|
 
-## AWORDS
-|PERIOD|AWORDS|
+## PUBLICATIONS & PATENTS —
+
+#### Journal
+
+Chaewon Kim, Sunyong Yoo, **Predicting condition-aware drug-induced transcriptional responses via a latent diffusion model**, _Bioinformatics_, Volume 42, Issue 4, April 2026, [https://doi.org/10.1093/bioinformatics/btag173](https://doi.org/10.1093/bioinformatics/btag173)
+
+Chaewon Kim, Sunyong Yoo, **Association between Nutrient Intakes and Osteoporosis in the United States and South Korea: A Population-based Study**, _in review_.
+
+#### Conference
+| YEAR | TITLE |
+|:-----|:------|
+| 2025 | Chaewon Kim, Sunyong Yoo, **Predicting Drug-Induced Transcriptional Responses Using Latent Diffusion Model**, The 19th DTMBIO |
+| 2025 | 김채원, 정명현, 김민건, 유선용, **Conditional Diffusion Model 기반 약물로 인한 전사체 반응 예측**, 2025 한국디지털콘텐츠학회 하계종합학술대회 |
+
+#### Patents & Software
+| YEAR | TITLE |
+|:-----|:------|
+| 2026 | 김채원, 유선용, **잠재확산모델 기반 약물로 인해 교란된 유전자 발현을 생성하는 장치 및 방법**, 10-2026-0043961 |
+| 2025 | 김채원, 유선용, **잠재확산모델 기반 약물로 인해 교란된 유전자 발현 생성 및 분석 알고리즘**, C-2025-056338 (저작권 등록) |
+
+
+## AWARDS
+| YEAR |AWARDS|
 |:------|:-----|
 |2025. 12.|The 19th International Conference on Data and Text Mining in Biomedical Informatics (DTMBIO) / Excellent Presentation Award|
 |2024. 05.|2024년 제6회 전남대학교 소프트웨어 교내 SW프로그래밍 경진대회 / 은상|
