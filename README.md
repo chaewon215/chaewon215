@@ -1,5 +1,5 @@
 ## CHAEWON KIM | 김채원
-AI researcher & developer specializing in generative models for transcriptomics & computational drug discovery
+AI researcher specializing in generative models for transcriptomics & computational drug discovery
 
 
 ## FIELD OF INTEREST —
@@ -10,7 +10,7 @@ Bioinformatics, Deep learning, Drug responses, Omics data (especially transcript
 |PERIOD|INSTITUTION|
 |:------|:-----|
 |2024. 03. - 2026. 02. |M.S. in Intelligent Electronics and Computer Engineering, Chonnam National University|
-|2023. 01. - 2026. 02. |[Bio and Medical Informatics Laboratory](http://bmil.jnu.ac.kr/) (BMIL), Chonnam National University|
+|2023. 01. - 2026. 02. |[Bio and Medical Informatics Laboratory](https://bmil.ai/) (BMIL), Chonnam National University|
 |2020. 03. - 2024. 02. |B.S. in Computer Engineering, Chonnam National University|
 |2022. 09. - 2022. 12. |🇺🇸 Southern Oregon University as Exchange Student|
 
@@ -111,7 +111,6 @@ Chaewon Kim, Sunyong Yoo, **Association between Nutrient Intakes and Osteoporosi
 ## SNS —
 |SNS|URLs|
 |:------|:-----|
-|✒️  Naver Blog|[@cheezecat215](https://blog.naver.com/cheezecat215)|
 |✨  Instagram |[@_chaew_on](https://www.instagram.com/_chaew_on/)|
 |💻  GitHub |[@chaewon215](https://github.com/chaewon215)|
 |🎮  Battlenet (Overwatch) |cheezeasy#1644|
